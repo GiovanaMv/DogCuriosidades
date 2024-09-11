@@ -1,0 +1,54 @@
+
+*
+{
+    box-sizing: border-box;
+    margin: 1;
+    padding: 0;
+}
+header h1
+{
+    text-align: center;
+    color: rgb(202, 18, 147);
+
+}
+.article
+{
+    display: flex;
+    justify-content: space-between;
+}
+#Terrier img
+{
+    width: 330px;
+    height: 240px;
+    border-radius: 10%;
+    margin-left: 30px;
+
+}
+.article article
+{
+    width: 30%;
+}
+body
+{
+    background-color: black;
+}
+h2
+{
+    color: rgb(38, 127, 211);
+    text-align: center;
+}
+p
+{
+color: rgb(65, 238, 42);
+font-family: Arial, Helvetica, sans-serif;
+}
+a
+{
+    color: rgb(202, 18, 147);
+}
+h4
+{
+    color: rgb(94, 94, 94);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
